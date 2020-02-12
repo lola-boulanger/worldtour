@@ -1,0 +1,84 @@
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+
+}
+
+
+.card {
+	font-weight: white;
+	padding:20px;
+	display: flex;
+	align-items: center;
+	align-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0,0.0,0.2);
+	border-radius: 6px;
+	margin: 10px;
+	flex-basis: 250px;
+	flex-grow: 1;
+
+}
+
+.card p {
+	display: block;
+
+
+}
+.card h3  {
+	flex-grow: 1;
+	padding-left: 20px; 
+	font-size: 18px; 
+	font-weight: lighter;
+	display: block;
+
+
+}
+
+.card img {
+	height: :300px;
+	width: 300px;
+	
+
+
+}
+#new {
+	height: :300px;
+	width: 300px;
+	border-radius: 6px;
+}
+
+#costa {
+	height: :300px;
+	width: 300px;
+	border-radius: 6px;
+}
+
+
+#corse {
+	height: :300px;
+	width: 300px;
+	border-radius: 6px;
+}
+
+#bali {
+	height: :300px;
+	width: 300px;
+	border-radius: 6px;
+}
+
+#la {
+	height: :300px;
+	width: 300px;
+	border-radius: 6px;
+}
+
+
+#italie {
+	height: :300px;
+	width: 300px;
+	border-radius: 6px;
+}
+
+
+
+
